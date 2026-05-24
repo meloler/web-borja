@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\Usuario\\\\Desktop\\\\web-borja\")",
+      "Bash(npm --version)",
+      "Bash(cp \"C:\\\\Users\\\\Usuario\\\\Desktop\\\\web-borja\\\\{A8A91A4C-05F6-4104-A554-273F9A881A77}.png\" \"C:\\\\Users\\\\Usuario\\\\Desktop\\\\web-borja\\\\public\\\\logo-borja-galvan-nutricion.png\")",
+      "Bash(npm install *)",
+      "Bash(npx next *)",
+      "Bash(npm run *)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(Get-Process -Name \"node\" -ErrorAction SilentlyContinue)",
+      "Bash(Stop-Process -Force)",
+      "Bash(Start-Sleep -Seconds 1)",
+      "Bash(Write-Host \"Done\")",
+      "PowerShell(Get-Process -Name \"node\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Stop-Process -Force -Confirm:$false)",
+      "Bash(git --version)",
+      "Bash(gh --version)",
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
