@@ -19,7 +19,8 @@
       "Bash(git init *)",
       "Bash(git config *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "mcp__c71d57e3-c38d-43d9-8293-9585f7e0a0e9__get_access_to_vercel_url"
     ]
   }
 }
